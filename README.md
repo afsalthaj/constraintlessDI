@@ -1,4 +1,4 @@
-## ReaderT & Optics, MTL, 3 layer cake
+## ReaderT with Optics
 
 ReaderT with Optics allows some powerful technique to solely depend on ReaderT design pattern
 for organising your app.
